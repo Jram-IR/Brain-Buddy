@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Card Matcher</string>
+    <string name="sea_horse">Sea Horse</string>
+    <string name="oyster">Oyster</string>
+    <string name="turtle">Turtle</string>
+    <string name="star_fish">Star Fish</string>
+    <string name="sea_bg">Sea bg</string>
+    <string name="points">Points :</string>
+    <string name="highscore">\"Highscore : \"</string>
+    <string name="card_matcher">Card Matcher</string>
+    <string name="simon_says">Simon Says</string>
+    <string name="start">Start!</string>
+    <string name="name">Name</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="fill_in_the_blanks">"FIll in the blanks "</string>
+    <string name="answer">Answer</string>
+</resources>
